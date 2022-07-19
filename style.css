@@ -16,12 +16,13 @@ body {
     justify-content: center;
     background-color: black;
     border-radius: 30px;
-    width: 992px;
+    width: 1321px;
+    height: 646px;
     margin: 40px;
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 50px;
 }
 
 p {
@@ -43,6 +44,6 @@ p {
 }
 
 .banner-img {
-    width: 600px;
-    height: 450px;
+    width: 581px;
+    height: 613px;
 }
