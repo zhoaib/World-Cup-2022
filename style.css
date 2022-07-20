@@ -53,13 +53,14 @@ p {
 .menu-blogs {
     display: flex;
     gap: 50px;
+    justify-content: center;
+    margin: 200px;
 }
 
 .blogs {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-
+    gap: 2%;
 
 }
 
@@ -100,4 +101,12 @@ p {
 #blog {
     background-color: #DD0000;
     color: #FFFFFF;
+}
+
+.icon {
+    margin-left: 20px;
+}
+
+.transfer {
+    margin-bottom: 10px;
 }
