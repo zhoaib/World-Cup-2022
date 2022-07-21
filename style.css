@@ -187,6 +187,8 @@ hr {
         height: 900px;
     }
 
+
+
     .button {
         background-color: #DD0000;
         border-radius: 10px;
@@ -369,6 +371,7 @@ hr {
         display: grid;
         justify-content: center;
     }
+
 
 
 }
